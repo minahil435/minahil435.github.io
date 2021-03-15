@@ -1,15 +1,15 @@
 
 
 h1 {
-   text-align: center;
-   background-color:black
+    text-align: center;
+    background-color:black
 
 }
 
 img {
-   border: 1px solid #ddd;
-   border-radius: 4px;
-   padding: 5px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
 }
 
 a {
@@ -26,5 +26,5 @@ h4{
 .rotate_image {  
     transform: rotate(45deg); 
     filter: blur(8px);
-   -webkit-filter: blur(8px); 
+    -webkit-filter: blur(8px); 
 }  
