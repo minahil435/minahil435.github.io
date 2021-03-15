@@ -13,14 +13,14 @@ img {
 }
 
 a {
-    background-color:blue;
+    color:blue;
 }
 
 h3 {
-    background-color:brown;
+    color:brown;
 }
 h4{
-    background-color:chocolate;
+    color:chocolate;
 }
 
 .rotate_image {  
