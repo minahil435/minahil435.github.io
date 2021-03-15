@@ -1,0 +1,15 @@
+
+
+h1 {
+   text-align: center;
+}
+
+img {
+   border: 1px solid #ddd;
+   border-radius: 4px;
+   padding: 5px;
+}
+
+.footerTexts{
+    color: grey;
+  }
