@@ -2,6 +2,8 @@
 
 h1 {
    text-align: center;
+   background-color:black
+
 }
 
 img {
@@ -10,6 +12,19 @@ img {
    padding: 5px;
 }
 
-.footerTexts{
-    color: grey;
-  }
+a {
+    background-color:blue;
+}
+
+h3 {
+    background-color:brown;
+}
+h4{
+    background-color:chocolate;
+}
+
+.rotate_image {  
+    transform: rotate(45deg); 
+    filter: blur(8px);
+   -webkit-filter: blur(8px); 
+}  
